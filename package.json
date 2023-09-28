@@ -22,6 +22,8 @@
     "vite-plugin-babel": "^1.1.3"
   },
   "devDependencies": {
+    "@esbuild-plugins/node-globals-polyfill": "^0.2.3",
+    "@esbuild-plugins/node-modules-polyfill": "^0.2.2",
     "@lightningjs/vite-plugin-import-chunk-url": "^0.3.0",
     "@vitejs/plugin-legacy": "^4.1.1",
     "terser": "^5.20.0",
